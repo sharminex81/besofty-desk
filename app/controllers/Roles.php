@@ -59,6 +59,7 @@ class Roles extends CI_Controller
 
     /**
      * Role's add route
+     * Each and every task with role can be here
      */
     public function addRole()
     {
